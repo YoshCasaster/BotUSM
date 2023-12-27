@@ -25,27 +25,27 @@ Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, conto
 # Lvy Fitur
 ━LIST FITUR LVY BOT-USM━━
 
-◈ .asmaulhusna
-◈ .translate
-◈ .sticker 
-◈ .remini
-◈ .removebg
-◈ .katabijak
-◈ .katabucin
-◈ .pantun
-◈ .faktaunik
-◈ .puisi
-◈ .pinterest
+- .asmaulhusna
+- .translate
+- .sticker
+- .remini
+- .removebg
+- .katabijak
+- .katabucin
+- .pantun
+- .faktaunik
+- .puisi
+- .pinterest
 
 ━INFORMASI━━
 
-◈ .openai 
-◈ .wikipedia 
-◈ .google
-◈ .googlebard
-◈ .infogempa
-◈ .infocuaca
-◈ .jadwalsholat
+- .openai
+- .wikipedia
+- .google
+- .googlebard
+- .infogempa
+- .infocuaca
+- .jadwalsholat
 
 ━━━━MLBB━━━━━
 
