@@ -23,13 +23,45 @@ IG : @yosepwdd
 TT : @yosepwd
 
 SELAMAT MENGGUNAKAN KAK ><
-//////////////////////////////////////////////////////////////////////////////////
+\\━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\\
 
 Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
 
 
-# Lvy
-Script WhatsApp Bot Multi Device
+# Lvy Fitur
+━LIST FITUR LVY BOT-USM━━
+◈ .asmaulhusna
+◈ .translate
+◈ .sticker 
+◈ .remini
+◈ .removebg
+◈ .katabijak
+◈ .katabucin
+◈ .pantun
+◈ .faktaunik
+◈ .puisi
+◈ .pinterest
+━INFORMASI━━
+◈ .openai 
+◈ .wikipedia 
+◈ .google
+◈ .googlebard
+◈ .infogempa
+◈ .infocuaca
+◈ .jadwalsholat
+━━━━MLBB━━━━━
+◈ .nickml
+◈ .ppcouple
+◈ .joki
+◈ .diamonml
+━━━━FITUR GROUP━━━━━
+◈ .tagall 
+◈ .hidetag 
+◈ .addlist 
+◈ .updatelist 
+◈ .dellist 
+◈ .list
+━━━━━━━━━━━━━━━
 
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
@@ -41,17 +73,11 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
-## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
+## SALURAN COMMUNITY BOT-WHATSAPP
+* >> [`Klik Disini`](https://whatsapp.com/channel/0029VaIZqLT3GJOqN5NQ0B2Y)
 
-
-## HEROKU BUILDPACK
-```bash
-heroku/nodejs
-heroku/python
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
+## Donate  Beliin Lvy Es 🍨🍧🍦 ya >.<
+* >> [`Klik Disini`](https://trakteer.id/lvy-npc/tip)
 
 ## UNTUK PENGGUNA WINDOWS/RDP
 
