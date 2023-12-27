@@ -23,7 +23,7 @@ IG : @yosepwdd
 TT : @yosepwd
 
 SELAMAT MENGGUNAKAN KAK ><
-\\━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\\
+\\━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\\
 
 Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
 
