@@ -49,19 +49,19 @@ Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, conto
 
 ━━━━MLBB━━━━━
 
-◈ .nickml
-◈ .ppcouple
-◈ .joki
-◈ .diamonml
+- .nickml
+- .ppcouple
+- .joki
+- .diamonml
 
 ━━━━FITUR GROUP━━━━━
 
-◈ .tagall 
-◈ .hidetag 
-◈ .addlist 
-◈ .updatelist 
-◈ .dellist 
-◈ .list
+- .tagall
+- .hidetag
+- .addlist
+- .updatelist
+- .dellist
+- .list
 
 ━━━━━━━━━━━━━━━
 
