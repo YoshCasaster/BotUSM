@@ -12,12 +12,11 @@
 * Database untuk List grup jika ter-reset bukan tanggung jawab Lvy ya.
 
 * SEWA/CUSTOM-BOT?
-* >> 15K / Bulan : on 24jam Req fitur? dm admin
-  >> WA : ‪+62 819‑3559‑3316‬
-  >> IG : @yosepwdd
-  >> TT : @yosepwd
-  >> SELAMAT MENGGUNAKAN KAK ><
-\\━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\\
+>> 15K / Bulan : on 24jam Req fitur? dm admin
+>> WA : ‪+62 819‑3559‑3316‬
+>> IG : @yosepwdd
+>> TT : @yosepwd
+>> SELAMAT MENGGUNAKAN KAK ><
 
 Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
 
