@@ -42,7 +42,9 @@ Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, conto
 ◈ .faktaunik
 ◈ .puisi
 ◈ .pinterest
+
 ━INFORMASI━━
+
 ◈ .openai 
 ◈ .wikipedia 
 ◈ .google
@@ -50,18 +52,23 @@ Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, conto
 ◈ .infogempa
 ◈ .infocuaca
 ◈ .jadwalsholat
+
 ━━━━MLBB━━━━━
+
 ◈ .nickml
 ◈ .ppcouple
 ◈ .joki
 ◈ .diamonml
+
 ━━━━FITUR GROUP━━━━━
+
 ◈ .tagall 
 ◈ .hidetag 
 ◈ .addlist 
 ◈ .updatelist 
 ◈ .dellist 
 ◈ .list
+
 ━━━━━━━━━━━━━━━
 
 ## NOTE
