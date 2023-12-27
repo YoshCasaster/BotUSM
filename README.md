@@ -1,7 +1,9 @@
 # CATATAN ( NOTE )
-⬣ LVY-BOT-USM
-⬡ Lvy 100% Free (PM/Group)
-⬡ Lvy bisa membantu beberapa aktifitas.
+* LVY-BOT-USM
+* Lvy 100% Free (PM/Group)
+* Lvy bisa membantu beberapa aktifitas.
+* Lvy dirancang oleh Mahasiswa USM : Nama : Yosep Wahyu Danuarta Nim : G231200010
+
 ⬡ Lvy dirancang oleh Mahasiswa USM :
 Nama : Yosep Wahyu Danuarta
 Nim : G231200010
